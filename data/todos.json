@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "id": "ab9465d2-dc7a-4ead-8ba6-2d3d3b3b601d",
+      "text": "go to temple"
+    },
+    {
+      "id": "6441f334-8de2-4a3c-a00f-a48832b2b4de",
+      "text": "visit the dentist"
+    },
+    {
+      "id": "c352dbea-8085-41f4-a648-e3c74be89c7f",
+      "text": "do exercise"
+    }
+  ]
+}
